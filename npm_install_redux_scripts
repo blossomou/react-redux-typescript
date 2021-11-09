@@ -1,3 +1,6 @@
 npm install redux react-redux react-thunk @types/react-redux
 
 npm install redux-thunk @types/redux-thunk
+
+if there are squiggly in app.tsx and index.tsx, do this
+npm install @types/react
