@@ -7,7 +7,7 @@ A tutorial I followed because I want to learn more about React, Redux and Typesc
 * Typescript
 * React
 
-## Youtube Tutorials
+## Youtube Tutorial
 https://www.youtube.com/watch?v=udr2rx_B99w&t=1s
 
 ## Contribution
